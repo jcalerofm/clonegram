@@ -11,6 +11,7 @@ gem 'redis'
 
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.12.0'
+gem 'font-awesome-rails'
 gem 'sassc-rails'
 gem 'simple_form'
 gem 'uglifier'
